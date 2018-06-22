@@ -27,3 +27,5 @@ Ethernet
 SOUND
 USBhost
 And other hardwares
+
+gen_mac.sh is to fix mac address on uboot running
